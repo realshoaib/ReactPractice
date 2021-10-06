@@ -14,7 +14,7 @@ class App extends Component {
         console.log(characters)
         return (
             <div className="Container">
-                <h1>React Tutorial By Shoaib Khalil</h1>
+                <h1>React Tutorial By Shoaib and Shahid</h1>
                 <p>Add a character with a name and a job to the table.</p>
                 <Table characterData={characters} removeCharacter={this.removeCharacter} />
                 <Form handleSubmit={this.handleSubmit} />
