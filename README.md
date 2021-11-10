@@ -1,3 +1,7 @@
+# Here's the live URL of this app
+
+https://realshoaib.github.io/ReactPractice
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
